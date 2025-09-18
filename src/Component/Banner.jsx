@@ -3,7 +3,7 @@ export default function Banner() {
     return (
         <section
             className="relative bg-center bg-cover h-72 md:h-[750px] p-4 z-0"
-            style={{ backgroundImage: "url('/Mainbanner.jpg')" }} // place Mainbanner.jpg in /public
+            style={{ backgroundImage: "url('Mainbanner.jpg')" }} // place Mainbanner.jpg in /public
         >
             <div className="absolute inset-0 bg-black/50"></div>
 

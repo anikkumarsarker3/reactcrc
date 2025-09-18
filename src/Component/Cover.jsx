@@ -7,7 +7,7 @@ export default function Cover() {
                     <div class="py-5">
                         <div class="carousel w-full">
                             <div id="slide1" class="carousel-item relative w-full">
-                                <img src="../../public/group-shaidminar.jpg" class="w-full rounded-2xl" />
+                                <img src="group-shaidminar.jpg" class="w-full rounded-2xl" />
                                 <div class="absolute inset-0 bg-gray-800/40"></div>
                                 <p class="absolute inset-0 flex items-center justify-center text-3xl font-bold text-white">
                                     আপনার লেখা এখানে
@@ -20,7 +20,7 @@ export default function Cover() {
                             </div>
 
                             <div id="slide2" class="carousel-item relative w-full">
-                                <img src="../../public/st-1.jpg" class="w-full rounded-2xl" />
+                                <img src="st-1.jpg" class="w-full rounded-2xl" />
                                 <div class="absolute inset-0 bg-gray-800/40"></div>
                                 <p class="absolute inset-0 flex items-center justify-center text-3xl font-bold text-white">
                                     আপনার লেখা এখানে
@@ -32,7 +32,7 @@ export default function Cover() {
                                 </div>
                             </div>
                             <div id="slide3" class="carousel-item relative w-full">
-                                <img src="../../public/ifter.jpg" class="w-full  rounded-2xl" />
+                                <img src="ifter.jpg" class="w-full  rounded-2xl" />
                                 <div class="absolute inset-0 bg-gray-800/40"></div>
                                 <p class="absolute inset-0 flex items-center justify-center text-3xl font-bold text-white">
                                     আপনার লেখা এখানে
@@ -44,7 +44,7 @@ export default function Cover() {
                                 </div>
                             </div>
                             <div id="slide4" class="carousel-item relative w-full">
-                                <img src="../../public/madical camp.jpg" class="w-full  rounded-2xl md:h-[550px]" />
+                                <img src="madical camp.jpg" class="w-full  rounded-2xl md:h-[550px]" />
                                 <div class="absolute inset-0 bg-gray-800/40"></div>
                                 <p class="absolute inset-0 flex items-center justify-center text-3xl font-bold text-white">
                                     আপনার লেখা এখানে
