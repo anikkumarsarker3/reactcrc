@@ -23,7 +23,7 @@ const Navbar = () => {
 
                 </ul>
             </div>
-            <a className=" text-xl flex justify-center items-center gap-3 font-semibold"> <img className="w-12 rounded-full" src="../../public/logo.jpg" alt="" /> <span>Come for RoadChild, GSTU</span></a>
+            <a className=" text-xl flex justify-center items-center gap-3 font-semibold"> <img className="w-12 rounded-full" src="logo.jpg" alt="" /> <span>Come for RoadChild, GSTU</span></a>
         </div>
 
         <div className="navbar-center hidden lg:flex">
