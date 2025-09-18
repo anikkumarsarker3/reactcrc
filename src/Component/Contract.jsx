@@ -1,6 +1,6 @@
 export default function Contract() {
     return (<>
-        <div className="bg-gray-200 p-32">
+        <div className="bg-gray-200 p-1 lg:p-32">
 
             <h3 className="text-center text-4xl font-semibold mb-4">Contract</h3>
             <section className="flex flex-col md:flex-row justify-around items-center mt-3">
