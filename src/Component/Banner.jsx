@@ -8,7 +8,7 @@ export default function Banner() {
             <div className="absolute inset-0 bg-black/50"></div>
 
             <div className="relative z-10 max-w-4xl mx-auto h-full flex items-center justify-center px-4">
-                <div className="text-center mt-4">
+                <div className="text-center">
                     <h1 className="text-gray-300 text-2xl md:text-5xl font-bold shadows-into-light-regular opacity-0 translate-y-6 animate-fade-up-slow">
                         Welcome To
                     </h1>
